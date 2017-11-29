@@ -1,0 +1,17 @@
+﻿  main.c
+c:\106ntuta-05\c++\c\ch8\main.c(30): warning C4013: 'ex8_1' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch8\main.c(33): warning C4013: 'ex8_2' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch8\main.c(36): warning C4013: 'ex8_3' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch8\main.c(39): warning C4013: 'ex8_4' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch8\main.c(42): warning C4013: 'ex8_5' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch8\main.c(45): warning C4013: 'ex8_6' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch8\main.c(48): warning C4013: 'ex8_7' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch8\main.c(25): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  ex8_7.c
+c:\106ntuta-05\c++\c\ch8\ex8_7.c(9): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-05\c++\c\ch8\ex8_7.c(10): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-05\c++\c\ch8\ex8_7.c(11): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-05\c++\c\ch8\ex8_7.c(12): warning C4129: ',': 無法辨識的字元逸出序列
+c:\106ntuta-05\c++\c\ch8\ex8_7.c(13): warning C4098: 'ex8_7': 'void' 函式正在傳回值
+c:\106ntuta-05\c++\c\ch8\ex8_7.c(11): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 1 的類型為 'int'

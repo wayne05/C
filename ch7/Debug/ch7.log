@@ -1,0 +1,14 @@
+﻿  main.c
+c:\106ntuta-05\c++\c\ch7\main.c(30): warning C4013: 'ex7_1' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch7\main.c(33): warning C4013: 'ex7_2' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch7\main.c(36): warning C4013: 'ex7_3' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch7\main.c(39): warning C4013: 'ex7_4' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch7\main.c(42): warning C4013: 'ex7_5' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch7\main.c(45): warning C4013: 'ex7_6' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch7\main.c(48): warning C4013: 'ex7_7' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch7\main.c(51): warning C4013: 'ex7_8' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch7\main.c(54): warning C4013: 'ex7_9' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch7\main.c(57): warning C4013: 'ex7_10' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch7\main.c(60): warning C4013: 'ex7_11' 未定義; 假設 extern 傳回整數
+  ch7.vcxproj -> C:\106NTUTA-05\C++\c\Debug\ch7.exe
+  ch7.vcxproj -> C:\106NTUTA-05\C++\c\Debug\ch7.pdb (Partial PDB)

@@ -1,0 +1,24 @@
+﻿  main.c
+c:\106ntuta-05\c++\c\ch4\main.c(31): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  ex4_8.c
+c:\106ntuta-05\c++\c\ch4\ex4_8.c(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  ex4_7.c
+c:\106ntuta-05\c++\c\ch4\ex4_7.c(19): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  ex4_6.c
+  ex4_5.c
+c:\106ntuta-05\c++\c\ch4\ex4_5.c(17): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 '::size_t'
+  c:\106ntuta-05\c++\c\ch4\ex4_5.c(17): note: 請考慮在格式字串中使用 '%zd'
+c:\106ntuta-05\c++\c\ch4\ex4_5.c(18): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 '::size_t'
+  c:\106ntuta-05\c++\c\ch4\ex4_5.c(18): note: 請考慮在格式字串中使用 '%zd'
+  ex4_4.c
+  ex4_3.c
+c:\106ntuta-05\c++\c\ch4\ex4_3.c(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  ex4_2.c
+  ex4_1.c
+c:\106ntuta-05\c++\c\ch4\ex4_1.c(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  正在產生程式碼...

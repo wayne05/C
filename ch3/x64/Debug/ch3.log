@@ -1,0 +1,38 @@
+﻿  main.c
+c:\106ntuta-05\c++\c\ch3\main.c(83): warning C4013: 'ex3_7' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch3\main.c(87): warning C4013: 'ex3_8' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch3\main.c(55): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  hw6.c
+  hw5.c
+  hw4.c
+  hw3.c
+c:\106ntuta-05\c++\c\ch3\hw3.c(6): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  hw2.c
+c:\106ntuta-05\c++\c\ch3\hw2.c(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  hw1.c
+  ex3_8.c
+c:\106ntuta-05\c++\c\ch3\ex3_8.c(12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  ex3_7.c
+  ex3_6.c
+  ex3_5.c
+  ex3_4.c
+c:\106ntuta-05\c++\c\ch3\ex3_4.c(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+c:\106ntuta-05\c++\c\ch3\ex3_4.c(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+c:\106ntuta-05\c++\c\ch3\ex3_4.c(10): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  ex3_3.c
+c:\106ntuta-05\c++\c\ch3\ex3_3.c(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  ex3_2.c
+c:\106ntuta-05\c++\c\ch3\ex3_2.c(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+c:\106ntuta-05\c++\c\ch3\ex3_2.c(9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  ex3_1.c
+  正在產生程式碼...

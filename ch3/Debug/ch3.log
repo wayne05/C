@@ -1,0 +1,20 @@
+﻿  main.c
+c:\106ntuta-05\c++\c\ch3\main.c(83): warning C4013: 'ex3_7' 未定義; 假設 extern 傳回整數
+c:\106ntuta-05\c++\c\ch3\main.c(87): warning C4013: 'ex3_8' 未定義; 假設 extern 傳回整數
+  hw6.c
+  hw5.c
+  hw4.c
+  hw3.c
+  hw2.c
+  hw1.c
+  ex3_8.c
+  ex3_7.c
+  ex3_6.c
+  ex3_5.c
+  ex3_4.c
+  ex3_3.c
+  ex3_2.c
+  ex3_1.c
+  正在產生程式碼...
+  ch3.vcxproj -> C:\106NTUTA-05\C++\c\Debug\ch3.exe
+  ch3.vcxproj -> C:\106NTUTA-05\C++\c\Debug\ch3.pdb (Partial PDB)
